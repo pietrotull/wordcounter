@@ -1,0 +1,53 @@
+Scala's Road Ahead
+Introducing the Scala Center
+Monitoring Reactive Applications
+Scalan: a reasonably typed meta-programming framework in Scala
+Roll Your Own Shapeless
+Lightbend Lagom: Microservices "Just Right"
+Akka.js: Drop Your Actors Outside the JVM Boundaries
+Machine Learning with Scala on Spark
+Dotty Linker: Precise Types Bring Performance
+Build a Recommender System in Apache Spark and Integrate It Using Akka
+Principles of Elegance
+Connecting Reactive Applications with Fast Data Using Reactive Streams
+Scala.js: Beyond the Coast-to-Coast Approach
+Using Actors for the Internet of (Lego) Trains
+Reactive Microservices with Akka and Docker
+Transactional Event Sourcing Using Slick (Audit Log for Free!)
+Perfect Scalability
+Beyond the Buzzword: A Reactive Web Application in Practice
+The Future of Scala Performance on Big Data
+Implicits Inspected and Explained
+Polymorphic Record Types in a Lifted Embedding
+Being Creative with Genetic Algorithms and Typeclasses
+@inline and @specialized - What Do They Do? Should I Be Using Them?
+Reactors - Road to Composable Distributed Computing
+Programming with Futures, Lattices, and Quiescence
+Don't Fear the Implicits: Everything You Need to Know About Typeclasses
+Scala: The Unpredicted Lingua Franca for Data Science
+Data in Motion: Streaming Static Data Efficiently in Akka Persistence
+Implementing Microservices with Scala and Akka
+Mastering Scala with IntelliJ IDEA
+- Friday -
+Postcapitalism
+Typelevel in 2016
+Immutable data stores and CQRS for safety, flexibility and profit
+Dotty Support in IntelliJ IDEA
+Nightmare Before Best Practices
+Akka Streams & Reactive Streams in Action
+Scala and the JVM as a Big Data Platform - Lessons from Apache Spark
+Scala Goes Native
+The Structure of Programming Revolutions
+Scylla, Charybdis, and the mystery of Quill
+Deep Learning and NLP with Spark
+Deep Dive Into Scala.js Internals
+Distributed Real-Time Stream Processing: Why and How
+Beyond Shuffling: Scaling Apache Spark
+Swave - a fresh Reactive Streams Implementation
+Metaprogramming 2.0
+Buying into Scala from the Inside and Out
+Dave Gurnell
+Async Testing on the JVM and Scala.js
+better-files: Towards a safe, sane I/O library in Scala
+Data-centric Metaprogramming
+One Microservice is No Microservice - They Come in Systems
