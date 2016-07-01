@@ -44,8 +44,21 @@ class WordCounterSpec extends FlatSpec with ShouldMatchers {
   }
 
   "read file" should "read file content" in {
-    val allWords = WordCounter.readFile()
+    val allWords = WordCounter.readFile("topics.txt")
     val sumOfWords = WordCounter.countWordsInSequence(allWords)
-    WordCounter.printTopWords(sumOfWords)
+    //WordCounter.printTopWords(sumOfWords)
+  }
+
+  "word comparison" should "give back numbers with words" in {
+    val wordFreq1 = Map("word1" -> 10, "word2" -> 5, "word3" -> 1, "word4" -> 5)
+    val wordFreq2 = Map("word1" -> 5, "word2" -> 10, "word3" -> 1)
+
+    val result = WordCounter.compareCounts(wordFreq1, wordFreq2)
+    result.get("word1").get === (10, 5)
+    result.get("word2").get === (5, -5)
+    result.get("word3").get === (1, 0)
+    result.get("word4").get === (5, 5)
+
+    WordCounter.printComparisonResults(result)
   }
 }

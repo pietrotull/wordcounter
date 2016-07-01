@@ -1,0 +1,60 @@
+Keynote: Scala - where it came from, where it's going
+Tuesday Keynote: Life Beyond the Illusion of Present
+GraphX: Graph analytics for insights about developer communities
+Project Gålbma: Actors vs. Types
+Type-safe off-heap memory for Scala
+Yoyak : Static analysis framework for Scala
+From Java to Scala in Less Than Three Months
+Lambda Architecture with Spark Streaming, Kafka, Cassandra, Akka and Scala
+Performance Testing Crash Course
+Meerkat parsers: a general parser combinator library for real programming languages
+From Source: Scala at Twitter
+5 minute Microservices
+Fixing Reactive Code at 100 Miles per Hour: Five Techniques to Improve How You Debug Scala and Akka
+Making your Scala applications smaller and faster with the Dotty linker
+Distributed Machine Learning 101 using Apache Spark from the Browser
+Hiring & Onboarding for your Scala Team
+The Twelve Factor App: Best Practices for Scala Deployment
+Options in Futures, how to unsuck them
+State of the Meta, Summer 2015
+YAB: Yet Another Build tool
+WatchDog: How PagerDuty uses Scala for end-to-end functional testing
+Understanding the Back-End of Big Data
+Function-Passing Style, A New Model for Asynchronous and Distributed Programming
+Scala needs YOU!
+What's new since "Programming in Scala"
+Large volume data analysis on the Typesafe Reactive Platform
+Enterprise (Big Data, Reactive, Security, etc.) Tuesday
+Cool Stuff, IoT Tuesday
+Tools web, best practices Tuesday
+Core Scala (Functional Programming, Academic) Tuesday
+Kamon: Metrics and traces for your reactive application
+Exercise in machine learning
+Write once, deploy everywhere
+Essential Scala: Six Core Principles for Learning Scala
+Community Party, Beer sponsored by Bold Radius: Graanbeurszaal
+The Future of AI in Scala, and on the JVM
+Why Spark Is the Next Top (Compute) Model
+Embedding a language into a string interpolator
+Delimited dependently-typed monadic checked exceptions in Scala
+Types vs Tests : An Epic Battle?
+The Reactive Streams Implementation Landscape
+SimpleFX a new Scala DSL for W.O.R.A.
+Ensime - why would anybody build another Scala IDE?
+A purely functional approach to building large applications
+Reactive Slick for Database Programming
+Towards Browser and Server Utopia with Scala.JS: an example using CRDTs
+Almost Zen: Reflections on Four Years of Scala in Practice
+Program Functionally, Execute Imperatively: Peeling abstraction overhead from functional programs
+Scala.js Semantics - and how they support performance and JavaScript interop
+So how do I do a 2-phase-commit with Akka then?
+Building your first REST API in less than 30 minutes
+Project Valhalla: Part 2 – Value Types in the JVM
+The road to sbt 1.0 is paved with server
+Easy Scalability with Akka
+Low-Friction Microservices with Scala and Play
+Functional Data Validation (or How to Think Functionally)
+Don't Block Yourself
+Scala Puzzlers: "In the Matrix, anything is possible!"
+A next generation tool for Scala code review
+Functional programming with arrows
